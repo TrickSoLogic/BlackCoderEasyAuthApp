@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackCoderAuthApp", "AspNetCoreAuth.Web\BlackCoderAuthApp.csproj", "{C5870C29-151B-4829-8C47-CF9A2CA8DBF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackCoderAuthApp.Data", "AspNetCoreAuth.Data\BlackCoderAuthApp.Data.csproj", "{58CD9369-46FE-44A1-B42B-1EEF12C5F467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5870C29-151B-4829-8C47-CF9A2CA8DBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5870C29-151B-4829-8C47-CF9A2CA8DBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5870C29-151B-4829-8C47-CF9A2CA8DBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5870C29-151B-4829-8C47-CF9A2CA8DBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CD9369-46FE-44A1-B42B-1EEF12C5F467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CD9369-46FE-44A1-B42B-1EEF12C5F467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CD9369-46FE-44A1-B42B-1EEF12C5F467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CD9369-46FE-44A1-B42B-1EEF12C5F467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E37EBE01-B0A0-44C1-B71F-610311CAD0DB}
+	EndGlobalSection
+EndGlobal

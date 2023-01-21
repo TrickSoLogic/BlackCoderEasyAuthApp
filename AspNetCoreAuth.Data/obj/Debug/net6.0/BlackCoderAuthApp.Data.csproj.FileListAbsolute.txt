@@ -1,0 +1,14 @@
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\BlackCoderAuthApp.Data.deps.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\BlackCoderAuthApp.Data.runtimeconfig.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\BlackCoderAuthApp.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\BlackCoderAuthApp.Data.pdb
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.csproj.AssemblyReference.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.AssemblyInfoInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.AssemblyInfo.cs
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.csproj.CoreCompileInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\refint\BlackCoderAuthApp.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.pdb
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\BlackCoderAuthApp.Data.genruntimeconfig.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\ref\BlackCoderAuthApp.Data.dll

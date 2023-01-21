@@ -1,0 +1,104 @@
+﻿@model AspNetCoreAuth.Web.Models.LoginModel
+
+@{
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Auth Module</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AspNetCore6BasicAuth.styles.css" asp-append-version="true" />
+    <style>
+
+        img {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+
+<body id="page-top">    
+    <section id="contact">
+        <div class="container">
+            <!-- Contact Section Heading -->
+            <h3 class=" text-center text-uppercase  mb-0" style="color: #1A6BA0">Log in</h3>
+        </div>
+    </section>
+
+    <div class="container">
+        <!--tab option end-->
+        <div class="row">
+            <div class="col-md-4">
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <form asp-route="Login">
+                            <input type="hidden" asp-for="ReturnUrl" />
+                            <div asp-validation-summary="All" class="text-danger"></div>
+                            <div class="form-group">
+                                <label>Username</label>
+                                <input asp-for="Username" class="form-control" placeholder="Username" autofocus />
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Password"></label>
+                                <input type="password" asp-for="Password" class="form-control" placeholder="Password" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="checkbox">
+                                    <label asp-for="RememberLogin">
+                                        <input asp-for="RememberLogin" />
+                                        @Html.DisplayNameFor(m => m.RememberLogin)
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="form-group" style="float:right">
+                                <button type="submit" class="btn btn-success">Log in</button>
+                            </div>
+                            <div class="form-group">
+                                <p>
+                                    <a id="forgot-password" href="#">Forgot your password?</a>
+                                </p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="text-center" style="font-size:small">© 2023 BlackCoder. All rights reserved.</div>
+            </div>
+            <div class="col-md-4">
+            </div>
+        </div>
+        <!--tab content end-->
+        <div class="col-sm-4">
+            <p>Or login with an account you already have:</p>
+            <a class="btn btn-primary" asp-action="LoginWithGoogle"
+               asp-route-returnUrl="@Model.ReturnUrl">Login with Google</a>
+        </div>
+    </div>
+
+
+    <!--JavaScript -->
+    <script>
+        function goBack() {
+            window.history.back();
+        }
+    </script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    </body>
+    </html>
+
+

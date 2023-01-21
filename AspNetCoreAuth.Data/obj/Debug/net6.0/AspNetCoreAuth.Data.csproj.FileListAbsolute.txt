@@ -1,0 +1,28 @@
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.deps.json
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.runtimeconfig.json
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.dll
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.pdb
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.csproj.AssemblyReference.cache
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.AssemblyInfoInputs.cache
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.AssemblyInfo.cs
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.csproj.CoreCompileInputs.cache
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.dll
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\refint\AspNetCoreAuth.Data.dll
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.pdb
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.genruntimeconfig.cache
+C:\Users\visha\Desktop\New\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\ref\AspNetCoreAuth.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.deps.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.runtimeconfig.json
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\bin\Debug\net6.0\AspNetCoreAuth.Data.pdb
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.csproj.AssemblyReference.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.AssemblyInfoInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.AssemblyInfo.cs
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.csproj.CoreCompileInputs.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\refint\AspNetCoreAuth.Data.dll
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.pdb
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\AspNetCoreAuth.Data.genruntimeconfig.cache
+D:\ASP.net-CORE_MVC\GIT\1Should Modify first then upload\Working projects\1 Working\AspNetCoreMvc6BasicAuth-master\AspNetCoreAuth\AspNetCoreAuth.Data\obj\Debug\net6.0\ref\AspNetCoreAuth.Data.dll
