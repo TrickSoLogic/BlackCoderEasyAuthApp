@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj": {}
+    "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj": {}
   },
   "projects": {
-    "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj": {
+    "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj",
+        "projectUniqueName": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj",
         "projectName": "BlackCoderAuthApp.Data",
-        "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj",
+        "projectPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\obj\\",
+        "outputPath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5sd7iJwtHgVHjrdYDb0/LoCsLoUn2IXyN83rsSCJnSeq7Uxs3J3OXjcKIbI8zp5jJcaGD6X7Eip4oqYIJGOUA==",
+  "dgSpecHash": "2sSno9TPnsV8AyCg6Iu3wOX2vR16EDEkcrOrvsragM/cixE3+N5PSa5HDbIr/O13AgmtSEPWKHBbQoowyv6ewQ==",
   "success": true,
-  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Web\\BlackCoderAuthApp.csproj",
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Web\\BlackCoderAuthApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

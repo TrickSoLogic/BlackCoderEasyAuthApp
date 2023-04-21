@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RQ3c6DKVuWzeLqs9h2y9r3Qo4kBBKb5ya+esad9LAMiAxCLTuZ5Y2ODu6A81GkVoH+3+xTPE2fQxLTNrq1oBnA==",
+  "dgSpecHash": "syBlt949UJRnrfzUHawx3VRr+4cixkjL+3biGA1yRPlawacWkIIIUscpQjlmEu7z5uVUSbeaayuYtQY2/mdLDg==",
   "success": true,
-  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Should Modify first then upload\\Working projects\\1 Working\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj",
+  "projectFilePath": "D:\\ASP.net-CORE_MVC\\GIT\\1Uploaded to Git files\\AspNetCoreMvc6BasicAuth-master\\AspNetCoreAuth\\AspNetCoreAuth.Data\\BlackCoderAuthApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
